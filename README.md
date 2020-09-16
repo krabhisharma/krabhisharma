@@ -18,10 +18,3 @@
 <a href="https://github.com/shafinr23">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krabhisharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
-<a href="https://github.com/krabhisharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krabhisharma&repo=mindDiary&theme=dark" />
-</a>
-<a href="https://github.com/krabhisharma/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krabhisharma&repo=xylophone-flutter&theme=dark" />
-</a>
-https://github-readme-stats.vercel.app/api?username=krabhisharma&show_icons=true&theme=radical
